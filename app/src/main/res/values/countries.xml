@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>93,AF,Afghanistan,🇦🇫</item>
+        <item>355,AL,Albania,🇦🇱</item>
+        <item>213,DZ,Algeria,🇩🇿</item>
+        <item>376,AD,Andorra,🇦🇩</item>
+        <item>244,AO,Angola,🇦🇴</item>
+        <item>54,AR,Argentina,🇦🇷</item>
+        <item>374,AM,Armenia,🇦🇲</item>
+        <item>297,AW,Aruba,🇦🇼</item>
+        <item>61,AU,Australia,🇦🇺</item>
+        <item>43,AT,Austria,🇦🇹</item>
+        <item>994,AZ,Azerbaijan,🇦🇿</item>
+        <item>973,BH,Bahrain,🇧🇭</item>
+        <item>880,BD,Bangladesh,🇧🇩</item>
+        <item>375,BY,Belarus,🇧🇾</item>
+        <item>32,BE,Belgium,🇧🇪</item>
+        <item>501,BZ,Belize,🇧🇿</item>
+        <item>229,BJ,Benin,🇧🇯</item>
+        <item>975,BT,Bhutan,🇧🇹</item>
+        <item>591,BO,Bolivia,🇧🇴</item>
+        <item>387,BA,Bosnia and Herzegovina,🇧🇦</item>
+        <item>267,BW,Botswana,🇧🇼</item>
+        <item>55,BR,Brazil,🇧🇷</item>
+        <item>673,BN,Brunei,🇧🇳</item>
+        <item>359,BG,Bulgaria,🇧🇬</item>
+        <item>226,BF,Burkina Faso,🇧🇫</item>
+        <item>95,MM,Myanmar,🇲🇲</item>
+        <item>257,BI,Burundi,🇧🇮</item>
+        <item>855,KH,Cambodia,🇰🇭</item>
+        <item>237,CM,Cameroon,🇨🇲</item>
+        <item>1,CA,Canada,🇨🇦</item>
+        <item>238,CV,Cape Verde,🇨🇻</item>
+        <item>236,CF,Central African Republic,🇨🇫</item>
+        <item>235,TD,Chad,🇹🇩</item>
+        <item>56,CL,Chile,🇨🇱</item>
+        <item>86,CN,China,🇨🇳</item>
+        <item>61,CX,Christmas Island,🇨🇽</item>
+        <item>61,CC,Cocos (Keeling) Islands,🇨🇨</item>
+        <item>57,CO,Colombia,🇨🇴</item>
+        <item>269,KM,Comoros,🇰🇲</item>
+        <item>242,CG,Republic of the Congo,🇨🇬</item>
+        <item>243,CD,Democratic Republic of the Congo,🇨🇩</item>
+        <item>682,CK,Cook Islands,🇨🇰</item>
+        <item>506,CR,Costa Rica,🇨🇷</item>
+        <item>385,HR,Croatia,🇭🇷</item>
+        <item>53,CU,Cuba,🇨🇺</item>
+        <item>357,CY,Cyprus,🇨🇾</item>
+        <item>420,CZ,Czech Republic,🇨🇿</item>
+        <item>45,DK,Denmark,🇩🇰</item>
+        <item>253,DJ,Djibouti,🇩🇯</item>
+        <item>593,EC,Ecuador,🇪🇨</item>
+        <item>20,EG,Egypt,🇪🇬</item>
+        <item>503,SV,El Salvador,🇸🇻</item>
+        <item>240,GQ,Equatorial Guinea,🇬🇶</item>
+        <item>291,ER,Eritrea,🇪🇷</item>
+        <item>372,EE,Estonia,🇪🇪</item>
+        <item>251,ET,Ethiopia,🇪🇹</item>
+        <item>500,FK,Falkland Islands,🇫🇰</item>
+        <item>298,FO,Faroe Islands,🇫🇴</item>
+        <item>679,FJ,Fiji,🇫🇯</item>
+        <item>358,FI,Finland,🇫🇮</item>
+        <item>33,FR,France,🇫🇷</item>
+        <item>689,PF,French Polynesia,🇵🇫</item>
+        <item>241,GA,Gabon,🇬🇦</item>
+        <item>220,GM,Gambia,🇬🇲</item>
+        <item>995,GE,Georgia,🇬🇪</item>
+        <item>49,DE,Germany,🇩🇪</item>
+        <item>233,GH,Ghana,🇬🇭</item>
+        <item>350,GI,Gibraltar,🇬🇮</item>
+        <item>30,GR,Greece,🇬🇷</item>
+        <item>299,GL,Greenland,🇬🇱</item>
+        <item>502,GT,Guatemala,🇬🇹</item>
+        <item>224,GN,Guinea,🇬🇳</item>
+        <item>245,GW,Guinea-Bissau,🇬🇼</item>
+        <item>592,GY,Guyana,🇬🇾</item>
+        <item>509,HT,Haiti,🇭🇹</item>
+        <item>504,HN,Honduras,🇭🇳</item>
+        <item>852,HK,Hong Kong,🇭🇰</item>
+        <item>36,HU,Hungary,🇭🇺</item>
+        <item>91,IN,India,🇮🇳</item>
+        <item>62,ID,Indonesia,🇮🇩</item>
+        <item>98,IR,Iran,🇮🇷</item>
+        <item>964,IQ,Iraq,🇮🇶</item>
+        <item>353,IE,Ireland,🇮🇪</item>
+        <item>44,IM,Isle of Man,🇮🇲</item>
+        <item>972,IL,Israel,🇮🇱</item>
+        <item>39,IT,Italy,🇮🇹</item>
+        <item>225,CI,Ivory Coast,🇨🇮</item>
+        <item>81,JP,Japan,🇯🇵</item>
+        <item>962,JO,Jordan,🇯🇴</item>
+        <item>7,KZ,Kazakhstan,🇰🇿</item>
+        <item>254,KE,Kenya,🇰🇪</item>
+        <item>686,KI,Kiribati,🇰🇮</item>
+        <item>965,KW,Kuwait,🇰🇼</item>
+        <item>996,KG,Kyrgyzstan,🇰🇬</item>
+        <item>856,LA,Laos,🇱🇦</item>
+        <item>371,LV,Latvia,🇱🇻</item>
+        <item>961,LB,Lebanon,🇱🇧</item>
+        <item>266,LS,Lesotho,🇱🇸</item>
+        <item>231,LR,Liberia,🇱🇷</item>
+        <item>218,LY,Libya,🇱🇾</item>
+        <item>423,LI,Liechtenstein,🇱🇮</item>
+        <item>370,LT,Lithuania,🇱🇹</item>
+        <item>352,LU,Luxembourg,🇱🇺</item>
+        <item>853,MO,Macao,🇲🇴</item>
+        <item>389,MK,Macedonia,🇲🇰</item>
+        <item>261,MG,Madagascar,🇲🇬</item>
+        <item>265,MW,Malawi,🇲🇼</item>
+        <item>60,MY,Malaysia,🇲🇾</item>
+        <item>960,MV,Maldives,🇲🇻</item>
+        <item>223,ML,Mali,🇲🇱</item>
+        <item>356,MT,Malta,🇲🇹</item>
+        <item>692,MH,Marshall Islands,🇲🇭</item>
+        <item>222,MR,Mauritania,🇲🇷</item>
+        <item>230,MU,Mauritius,🇲🇺</item>
+        <item>262,YT,Mayotte,🇾🇹</item>
+        <item>52,MX,Mexico,🇲🇽</item>
+        <item>691,FM,Micronesia,🇫🇲</item>
+        <item>373,MD,Moldova,🇲🇩</item>
+        <item>377,MC,Monaco,🇲🇨</item>
+        <item>976,MN,Mongolia,🇲🇳</item>
+        <item>382,ME,Montenegro,🇲🇪</item>
+        <item>212,MA,Morocco,🇲🇦</item>
+        <item>258,MZ,Mozambique,🇲🇿</item>
+        <item>264,NA,Namibia,🇳🇦</item>
+        <item>674,NR,Nauru,🇳🇷</item>
+        <item>977,NP,Nepal,🇳🇵</item>
+        <item>31,NL,Netherlands,🇳🇱</item>
+        <item>599,AN,Netherlands Antilles,🇦🇳</item>
+        <item>687,NC,New Caledonia,🇳🇨</item>
+        <item>64,NZ,New Zealand,🇳🇿</item>
+        <item>505,NI,Nicaragua,🇳🇮</item>
+        <item>227,NE,Niger,🇳🇪</item>
+        <item>234,NG,Nigeria,🇳🇬</item>
+        <item>683,NU,Niue,🇳🇺</item>
+        <item>850,KP,North Korea,🇰🇵</item>
+        <item>47,NO,Norway,🇳🇴</item>
+        <item>968,OM,Oman,🇴🇲</item>
+        <item>92,PK,Pakistan,🇵🇰</item>
+        <item>970,PS,Palestine,🇵🇸</item>
+        <item>680,PW,Palau,🇵🇼</item>
+        <item>507,PA,Panama,🇵🇦</item>
+        <item>675,PG,Papua New Guinea,🇵🇬</item>
+        <item>595,PY,Paraguay,🇵🇾</item>
+        <item>51,PE,Peru,🇵🇪</item>
+        <item>63,PH,Philippines,🇵🇭</item>
+        <item>870,PN,Pitcairn Islands,🇵🇳</item>
+        <item>48,PL,Poland,🇵🇱</item>
+        <item>351,PT,Portugal,🇵🇹</item>
+        <item>1,PR,Puerto Rico,🇵🇷</item>
+        <item>974,QA,Qatar,🇶🇦</item>
+        <item>40,RO,Romania,🇷🇴</item>
+        <item>7,RU,Russia,🇷🇺</item>
+        <item>250,RW,Rwanda,🇷🇼</item>
+        <item>590,BL,Saint Barthelemy,🇧🇱</item>
+        <item>685,WS,Samoa,🇼🇸</item>
+        <item>378,SM,San Marino,🇸🇲</item>
+        <item>239,ST,Sao Tome and Principe,🇸🇹</item>
+        <item>966,SA,Saudi Arabia,🇸🇦</item>
+        <item>221,SN,Senegal,🇸🇳</item>
+        <item>381,RS,Serbia,🇷🇸</item>
+        <item>248,SC,Seychelles,🇸🇨</item>
+        <item>232,SL,Sierra Leone,🇸🇱</item>
+        <item>65,SG,Singapore,🇸🇬</item>
+        <item>421,SK,Slovakia,🇸🇰</item>
+        <item>386,SI,Slovenia,🇸🇮</item>
+        <item>677,SB,Solomon Islands,🇸🇧</item>
+        <item>252,SO,Somalia,🇸🇴</item>
+        <item>27,ZA,South Africa,🇿🇦</item>
+        <item>82,KR,South Korea,🇰🇷</item>
+        <item>34,ES,Spain,🇪🇸</item>
+        <item>94,LK,Sri Lanka,🇱🇰</item>
+        <item>290,SH,St. Helena,🇸🇭</item>
+        <item>508,PM,St. Pierre and Miquelon,🇵🇲</item>
+        <item>249,SD,Sudan,🇸🇩</item>
+        <item>597,SR,Suriname,🇸🇷</item>
+        <item>268,SZ,Swaziland,🇸🇿</item>
+        <item>46,SE,Sweden,🇸🇪</item>
+        <item>41,CH,Switzerland,🇨🇭</item>
+        <item>963,SY,Syria,🇸🇾</item>
+        <item>886,TW,Taiwan,🇹🇼</item>
+        <item>992,TJ,Tajikistan,🇹🇯</item>
+        <item>255,TZ,Tanzania,🇹🇿</item>
+        <item>66,TH,Thailand,🇹🇭</item>
+        <item>228,TG,Togo,🇹🇬</item>
+        <item>690,TK,Tokelau,🇹🇰</item>
+        <item>676,TO,Tonga,🇹🇴</item>
+        <item>216,TN,Tunisia,🇹🇳</item>
+        <item>90,TR,Turkey,🇹🇷</item>
+        <item>993,TM,Turkmenistan,🇹🇲</item>
+        <item>688,TV,Tuvalu,🇹🇻</item>
+        <item>971,AE,U.A.E.,🇦🇪</item>
+        <item>256,UG,Uganda,🇺🇬</item>
+        <item>44,GB,United Kingdom,🇬🇧</item>
+        <item>380,UA,Ukraine,🇺🇦</item>
+        <item>598,UY,Uruguay,🇺🇾</item>
+        <item>1,US,USA,🇺🇸</item>
+        <item>998,UZ,Uzbekistan,🇺🇿</item>
+        <item>678,VU,Vanuatu,🇻🇺</item>
+        <item>39,VA,Vatican,🇻🇦</item>
+        <item>58,VE,Venezuela,🇻🇪</item>
+        <item>84,VN,Vietnam,🇻🇳</item>
+        <item>681,WF,Wallis and Futuna,🇼🇫</item>
+        <item>967,YE,Yemen,🇾🇪</item>
+        <item>260,ZM,Zambia,🇿🇲</item>
+        <item>263,ZW,Zimbabwe,🇿🇼</item>
+    </string-array>
+</resources>
