@@ -1,4 +1,4 @@
-![StatusSaver](screenshots/main_screenshot.png "StatusSaver")
+![StatusSaver](screenshots/screenshot_1.png "StatusSaver")
 
 # Status Saver
 
