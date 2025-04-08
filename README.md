@@ -1,3 +1,5 @@
+![StatusSaver](screenshots/main_screenshot.png "StatusSaver")
+
 # Status Saver
 
 This project is a simple yet effective implementation of a WhatsApp Status Saver app, built natively for Android using Kotlin and Jetpack Compose. It follows a modular architecture with a focus on clarity, reusability, and responsiveness.
